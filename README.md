@@ -3,25 +3,8 @@ This project aims to predict whether a customer will respond positively to an in
 
 ![POWER BI](https://github.com/user-attachments/assets/62173432-e9bb-41a7-95ec-9bb5e21dc247)
 
- #Project Overview
-  Developed a robust machine learning solution to predict customer responses to insurance policy offers, leveraging a dataset of over 380,000 customer records
-  Trained and evaluated multiple classification models (Logistic Regression, Decision Tree, Random Forest), selecting Random Forest for its highest accuracy (86%) and ROC-AUC score (0.93)
-  Conducted comprehensive exploratory data analysis (EDA) to uncover key insights, such as: Gender and age group trends in insurance purchases
-  Impact of vehicle age and damage on purchase likelihood Identification of uninsured customers as a prime target segment
-  Deployed the final model as an interactive Streamlit web application, integrating Groq’s LLaMA 3 generative AI to provide personalized suggestions for customers unlikely to purchase, 
-  enhancing user engagement and conversion strategies.
 
-
-
- #Key Features
-  Predict customer interest in insurance.
-  Power BI dashboard to explore customer trends.
-  LLaMA 3 for personalized suggestions when prediction = "No".
-  Deployed as an interactive Streamlit app.
-
-
-
-## 🔍 Project Overview
+##  Project Overview
 
 - Developed a robust machine learning solution to predict customer responses to insurance policy offers, leveraging a dataset of over 380,000 records.
 - Trained and evaluated multiple classification models:
@@ -37,11 +20,11 @@ This project aims to predict whether a customer will respond positively to an in
 
 ---
 
-## 🚀 Key Features
+##  Key Features
 
-- 🔍 Predict customer interest in insurance
-- 📊 Power BI dashboard to explore customer trends
-- 🤖 LLaMA 3 for personalized suggestions when prediction = "No"
-- 🌐 Deployed as an interactive Streamlit app
+-  Predict customer interest in insurance
+-  Power BI dashboard to explore customer trends
+-  LLaMA 3 for personalized suggestions when prediction = "No"
+-  Deployed as an interactive Streamlit app
 
 
